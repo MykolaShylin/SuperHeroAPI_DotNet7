@@ -4,7 +4,7 @@ My .NET 7 "Super Hero" Web API using:
 - CRUD operations,
 - Entity Framework,
 - MS SQL Server,
-- Migrations,
+- Code-First Migrations,
 - DI,
 - Repository Pattern,
 - Proxy Pattern
